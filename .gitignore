@@ -1,0 +1,6 @@
+.env
+waypoints.py
+*.gpx
+__pycache__/
+*.pyc
+venv/
